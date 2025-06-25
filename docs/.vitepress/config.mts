@@ -102,8 +102,8 @@ export default defineConfig({
               link: '/learn/what-is-farcaster/messages',
             },
             {
-              text: 'Frames',
-              link: '/learn/what-is-farcaster/frames',
+              text: 'Mini Apps',
+              link: '/learn/what-is-farcaster/mini-apps',
             },
             {
               text: 'Channels',
@@ -156,12 +156,12 @@ export default defineConfig({
             },
 
             {
-              text: 'Creating frames',
+              text: 'Creating mini apps',
               collapsed: true,
               items: [
                 {
-                  text: 'Create a poll frame',
-                  link: '/developers/guides/frames/poll',
+                  text: 'Create a poll mini app',
+                  link: '/developers/guides/frames/poll-mini-app',
                 },
               ],
             },
